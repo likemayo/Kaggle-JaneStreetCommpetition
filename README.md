@@ -84,4 +84,10 @@ The goal is to develop a robust model that can effectively predict market moveme
 ## Result
 Our team, Just4silver, achieved a competitive score of 0.008141 in the Jane Street Market Prediction competition. As of the latest leaderboard update, we are ranked 109 out of 3412 teams, earning us a Silver Medal. This achievement reflects the effectiveness of our ensemble modeling approach and feature engineering strategies in tackling the challenges of financial market prediction.
 
-## Repository Structure
+---
+## Acknowledgments
+Jane Street for hosting the competition and providing the dataset.
+
+Kaggle for facilitating the competition platform.
+
+The open-source community for providing libraries like PyTorch, LightGBM, XGBoost, and CatBoost.
